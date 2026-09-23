@@ -1,3 +1,32 @@
-@use "./variables.scss" as *;
-
-// put your custom CSS here!
+@font-face {
+  font-family: "Luciole";
+  src: url("static/fonts/Luciole-Regular.woff2") format("woff2"),
+       url("static/fonts/Luciole-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Luciole";
+  src: url("static/fonts/Luciole-Bold.woff2") format("woff2"),
+       url("static/fonts/Luciole-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Luciole";
+  src: url("static/fonts/Luciole-Italic.woff2") format("woff2"),
+       url("static/fonts/Luciole-Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Luciole";
+  src: url("static/fonts/Luciole-BoldItalic.woff2") format("woff2"),
+       url("static/fonts/Luciole-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
