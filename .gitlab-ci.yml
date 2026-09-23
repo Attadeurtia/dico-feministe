@@ -1,0 +1,16 @@
+image: node:22
+
+variables:
+  GIT_DEPTH: 0   # historique complet, pour les dates "dernière modif" de Quartz
+
+pages:
+  stage: deploy
+  script:
+    - npm ci
+    - npx quartz plugin install --from-config
+    - npx quartz build
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
