@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: fr-FR
-  baseUrl: attadeurtia.frama.io/dico-feministe
+  baseUrl: dico-feministe-a2f085.frama.io
   ignorePatterns:
     - private
     - templates
