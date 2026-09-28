@@ -15,7 +15,7 @@ La **mecsplication** est montrée comme étant une des manifestations sociales, 
 
 Voir aussi :
 - [[Mansplaining]]
-- Machisme
+- [[Machisme]]
 - Privilège
 
 [Biscuits de Fortune](https://biscuitsdefortune.com/2015/06/24/mecsplication-dictionnaire-personnel-du-feminisme/)
