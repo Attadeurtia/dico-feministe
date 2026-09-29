@@ -3,9 +3,15 @@ title: "Cisgenre"
 categories: []
 sources:
   - "https://www.clepsy.fr/glossaire-lgbtqia/"
+date: 2026-09-29
 ---
 
 ## Définition
-Personne dont l'identité de genre correspond au genre assigné à la naissance. Par exemple, une personne assignée femme à la naissance et qui s'identifie comme femme est cisgenre.
+Personne dont l'identité de genre correspond au genre assigné à la naissance
 
-<!-- project: github.com/Attadeurtia/dico-feministe -->
+## Liens connexes
+- [[Identité de genre]]
+- [[Genre]]
+
+## Sources
+- <https://www.clepsy.fr/glossaire-lgbtqia/>

@@ -2,9 +2,8 @@
 title: "Brofesor"
 categories: []
 sources: []
+date: 2026-09-29
 ---
 
 ## Définition
-Un professeur ou expert qui adopte une attitude condescendante, particulièrement envers les femmes. Ce terme désigne souvent un homme qui minimise ou infantilise les contributions des femmes dans un cadre académique ou professionnel.
-
-<!-- project: github.com/Attadeurtia/dico-feministe -->
+un professeur ou expert qui adopte une attitude condescendante particulièrement envers les femmes

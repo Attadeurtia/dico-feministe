@@ -2,9 +2,8 @@
 title: "Brosectomy"
 categories: []
 sources: []
+date: 2026-09-29
 ---
 
 ## Définition
-Terme humoristique désignant le fait pour un groupe d’amis de subir une vasectomie ensemble, en même temps. Ce terme est souvent utilisé pour moquer ou critiquer les dynamiques masculines autour de la santé reproductive et des choix médicaux.
-
-<!-- project: github.com/Attadeurtia/dico-feministe -->
+when a group of friends all undergo a vasectomy procedure together, at the same time.

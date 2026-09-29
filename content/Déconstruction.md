@@ -2,10 +2,12 @@
 title: "Déconstruction"
 categories: []
 sources:
-  - "https://www.associationlameche.org/lexique-f%C3%A9ministe"
+  - "https://www.comprendrelefeminisme.fr/encyclopedia/deconstruction/"
+date: 2026-09-29
 ---
 
 ## Définition
-Cheminement visant à nous éloigner d’opinions potentiellement discriminantes, afin de rendre notre mode de pensée plus conscient et tolérant. Par exemple, se remettre en question sur des idées sexistes, racistes ou homophobes pour adopter une vision plus inclusive et égalitaire.
+Cheminement visant à nous éloigner d’opinions potentiellement discriminantes, afin de rendre notre mode de pensée plus conscient et tolérant. Par exemple, se remettre en question sur des idées sexistes.
 
-<!-- project: github.com/Attadeurtia/dico-feministe -->
+## Sources
+- <https://www.comprendrelefeminisme.fr/encyclopedia/deconstruction/>

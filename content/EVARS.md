@@ -2,9 +2,8 @@
 title: "EVARS"
 categories: []
 sources: []
+date: 2026-09-29
 ---
 
 ## Définition
-Acronyme pour **Éducation à la Vie Affective, Relationnelle et à la Sexualité**. Il désigne des programmes éducatifs visant à informer les jeunes (et parfois les adultes) sur les relations saines, le consentement, la sexualité, et les dynamiques affectives. Ces programmes sont souvent intégrés dans les cursus scolaires pour promouvoir une éducation sexuelle inclusive et respectueuse des diversités.
-
-<!-- project: github.com/Attadeurtia/dico-feministe -->
+Éducation à la vie affective et relationnelle, et à la sexualité

@@ -3,15 +3,11 @@ title: "Écriture inclusive"
 categories: []
 sources:
   - "https://www.associationlameche.org/lexique-f%C3%A9ministe"
+date: 2026-09-29
 ---
 
 ## Définition
-Pratique linguistique visant à représenter tou·te·s les genres dans la langue française, qui est traditionnellement marquée par une domination du masculin (ex : "le masculin l'emporte sur le féminin"). L'écriture inclusive peut prendre plusieurs formes :
-- Utilisation du point médian (ex : "les étudiant·e·s").
-- Doublement des termes (ex : "les étudiants et les étudiantes").
-- Utilisation de termes épicènes (ex : "le corps enseignant").
-- Reformulation pour éviter les marques de genre (ex : "Bonjour à toutes et à tous" devient "Bonjour").
+ayant connaissance de la dimension sexiste de la langue française (le masculin l'emporte sur le féminin, règle établie au 17eme siècle qui n'existait pas avant), l'écriture inclusive vise à prendre en compte tout le monde lorsqu'on parle d'un groupe. Ainsi, on n'écrit pas ou ne dit pas "Bonjour à tous" quand on s'adresse à un groupe composé de femmes et d'hommes etc mais "Bonjour à tous-tes" ou simplement "Bonjour". Autre exemple, on ne dira pas "Les directeurs d'établissements" lorsqu'on parle d'un groupe composé de femmes et d'hommes mais "Les directeurices d'établissements". À noter que l'écriture inclusive prend plusieurs formes pour un même mot, chacun-e utilise ce qui lui convient le mieux.
 
-L'objectif est de rendre visible la diversité des genres et de lutter contre l'invisibilisation des femmes et des minorités de genre dans la langue.
-
-<!-- project: github.com/Attadeurtia/dico-feministe -->
+## Sources
+- <https://www.associationlameche.org/lexique-f%C3%A9ministe>

@@ -3,13 +3,14 @@ title: "Gay"
 categories: []
 sources:
   - "https://www.clepsy.fr/glossaire-lgbtqia/"
+date: 2026-09-29
 ---
 
 ## Définition
-Terme désignant une personne **attirée romantiquement et/ou sexuellement par des personnes du même genre**. Bien que le mot soit souvent utilisé pour parler des **hommes homosexuels**, il peut également s'appliquer aux femmes lesbiennes ou à toute personne non hétérosexuelle.
+Terme désignant une personne attirée romantiquement et/ou sexuellement par des personnes du même genre. Bien que le mot soit souvent utilisé pour parler des hommes homosexuels, il peut également s'appliquer aux femmes lesbiennes.
 
-Le terme *gay* est parfois utilisé comme un synonyme d'**homosexualité**, mais il peut aussi englober une dimension **identitaire** ou **communautaire**, notamment dans le cadre des luttes pour les droits LGBTQIA+.
+## Liens connexes
+- [[Genre]]
 
-> **À noter** : Une personne transgenre peut également s'identifier comme gay si son attirance romantique ou sexuelle est dirigée vers des personnes de son genre.
-
-<!-- project: github.com/Attadeurtia/dico-feministe -->
+## Sources
+- <https://www.clepsy.fr/glossaire-lgbtqia/>
